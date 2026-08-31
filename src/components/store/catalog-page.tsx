@@ -1,0 +1,2 @@
+import type { Product } from '@/lib/catalog'; import { PageHero, PageShell, ProductGrid } from './store';
+export function CatalogPage({eyebrow,title,copy,products}:{eyebrow:string;title:string;copy:string;products:Product[]}){return <PageShell><PageHero eyebrow={eyebrow} title={title} copy={copy}/><section className="mx-auto max-w-7xl px-4 py-12 lg:px-8 lg:py-16"><ProductGrid products={products}/></section></PageShell>}
