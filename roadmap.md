@@ -4,3 +4,5 @@
 - [x] Build Home, Game Top-Ups, Google Play Cards, Subscriptions, How to Order, and Support routes
 - [x] Wire every purchase/contact action to WhatsApp +21628415739
 - [x] Verify route metadata, interactions, desktop, and mobile layouts
+- [x] Add the six-product Trending now section with Popular highlights
+- [ ] Apply the user-provided image to the requested additional products when uploaded
